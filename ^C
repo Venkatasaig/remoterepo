@@ -1,0 +1,8 @@
+creating file f2
+^X
+^X
+creating file3
+^R
+^X file2
+wq!
+
